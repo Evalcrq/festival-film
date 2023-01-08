@@ -1,0 +1,115 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&display=swap');
+
+body{
+    background-color:#ffffff ;
+}
+section.txt{
+    font-family: 'Montserrat', normal;
+    font-size: 30pt;
+    background-color: #000000;
+    color: #ffffff;
+    top: 300px;
+
+}
+
+section.txt1{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+   text-align: center;
+    color: #000000;
+
+}
+
+section.txt2{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 100px;
+    margin-right: 0px;
+    text-align: center;
+    color: #000000;
+}
+
+
+
+section.img{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 4fr;
+    gap: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    margin-bottom: 80px;
+}
+
+
+.titre1{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 500px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #000000;
+    position :absolute;
+    top: 380px;
+    line-height: 15px;
+}
+
+
+.titre2{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 500px;
+    margin-right: 10px;
+    color: #000000;
+    position :absolute;
+    top: 860px;
+    line-height: 15px;
+}
+
+.titre3{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 500px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #000000;
+    position :absolute;
+    top: 1480px;
+    line-height: 15px;
+}
+
+.titre4{
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+    margin-left: 500px;
+    margin-right: 10px;
+    letter-spacing: -0.06em;
+    color: #000000;
+    position :absolute;
+    top: 2035px;
+    line-height: 15px;
+}
+
+
+
+.button{
+    position: absolute;
+    top: 42px;
+    right: 860px;
+    left: 1150px;
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Montserrat', normal;
+    font-size: 15pt;
+
+}
+
+.p{
+    color: #000000;
+}
